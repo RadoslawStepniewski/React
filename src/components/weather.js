@@ -1,6 +1,6 @@
-import React, { Components}from 'react';
+import React, { Component }from 'react';
 
-class Weather extends Components{
+class Weather extends Component {
     render(){
         return(
             <div>
